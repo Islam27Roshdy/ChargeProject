@@ -1,6 +1,0 @@
-C:\Users\Islam-Al Azhary\Source\Repos\Payment\Payment.BusinessLogicLayer\obj\Debug\netcoreapp2.1\Payment.BusinessLogicLayer.csprojAssemblyReference.cache
-C:\Users\Islam-Al Azhary\Source\Repos\Payment\Payment.BusinessLogicLayer\obj\Debug\netcoreapp2.1\Payment.BusinessLogicLayer.csproj.CoreCompileInputs.cache
-C:\Users\Islam-Al Azhary\Source\Repos\Payment\Payment.BusinessLogicLayer\obj\Debug\netcoreapp2.1\Payment.BusinessLogicLayer.RazorAssemblyInfo.cache
-C:\Users\Islam-Al Azhary\Source\Repos\Payment\Payment.BusinessLogicLayer\obj\Debug\netcoreapp2.1\Payment.BusinessLogicLayer.RazorAssemblyInfo.cs
-C:\Users\Islam-Al Azhary\Source\Repos\Payment\Payment.BusinessLogicLayer\obj\Debug\netcoreapp2.1\Payment.BusinessLogicLayer.AssemblyInfoInputs.cache
-C:\Users\Islam-Al Azhary\Source\Repos\Payment\Payment.BusinessLogicLayer\obj\Debug\netcoreapp2.1\Payment.BusinessLogicLayer.AssemblyInfo.cs
