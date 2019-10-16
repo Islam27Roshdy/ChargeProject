@@ -1,0 +1,17 @@
+C:\Users\Islam-Al Azhary\Source\Repos\Payment\BusinessLogicLayer\obj\Debug\netcoreapp2.1\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Islam-Al Azhary\Source\Repos\Payment\BusinessLogicLayer\obj\Debug\netcoreapp2.1\BusinessLogicLayer.RazorAssemblyInfo.cache
+C:\Users\Islam-Al Azhary\Source\Repos\Payment\BusinessLogicLayer\obj\Debug\netcoreapp2.1\BusinessLogicLayer.RazorAssemblyInfo.cs
+C:\Users\Islam-Al Azhary\Source\Repos\Payment\BusinessLogicLayer\obj\Debug\netcoreapp2.1\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\Islam-Al Azhary\Source\Repos\Payment\BusinessLogicLayer\obj\Debug\netcoreapp2.1\BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\Islam-Al Azhary\Source\Repos\Payment\BusinessLogicLayer\bin\Debug\netcoreapp2.1\BusinessLogicLayer.deps.json
+C:\Users\Islam-Al Azhary\Source\Repos\Payment\BusinessLogicLayer\bin\Debug\netcoreapp2.1\BusinessLogicLayer.runtimeconfig.json
+C:\Users\Islam-Al Azhary\Source\Repos\Payment\BusinessLogicLayer\bin\Debug\netcoreapp2.1\BusinessLogicLayer.runtimeconfig.dev.json
+C:\Users\Islam-Al Azhary\Source\Repos\Payment\BusinessLogicLayer\bin\Debug\netcoreapp2.1\BusinessLogicLayer.dll
+C:\Users\Islam-Al Azhary\Source\Repos\Payment\BusinessLogicLayer\bin\Debug\netcoreapp2.1\BusinessLogicLayer.pdb
+C:\Users\Islam-Al Azhary\Source\Repos\Payment\BusinessLogicLayer\obj\Debug\netcoreapp2.1\BusinessLogicLayer.RazorTargetAssemblyInfo.cache
+C:\Users\Islam-Al Azhary\Source\Repos\Payment\BusinessLogicLayer\obj\Debug\netcoreapp2.1\BusinessLogicLayer.dll
+C:\Users\Islam-Al Azhary\Source\Repos\Payment\BusinessLogicLayer\obj\Debug\netcoreapp2.1\BusinessLogicLayer.pdb
+C:\Users\Islam-Al Azhary\Source\Repos\Payment\BusinessLogicLayer\bin\Debug\netcoreapp2.1\Payement.Entities.dll
+C:\Users\Islam-Al Azhary\Source\Repos\Payment\BusinessLogicLayer\bin\Debug\netcoreapp2.1\Payement.Entities.pdb
+C:\Users\Islam-Al Azhary\Source\Repos\Payment\BusinessLogicLayer\obj\Debug\netcoreapp2.1\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\Islam-Al Azhary\Source\Repos\Payment\BusinessLogicLayer\obj\Debug\netcoreapp2.1\BusinessLogicLayer.csproj.CopyComplete

@@ -1,0 +1,14 @@
+C:\Users\Islam-Al Azhary\Source\Repos\Payment\Payement.Entities\bin\Debug\netcoreapp2.1\Payement.Entities.deps.json
+C:\Users\Islam-Al Azhary\Source\Repos\Payment\Payement.Entities\bin\Debug\netcoreapp2.1\Payement.Entities.runtimeconfig.json
+C:\Users\Islam-Al Azhary\Source\Repos\Payment\Payement.Entities\bin\Debug\netcoreapp2.1\Payement.Entities.runtimeconfig.dev.json
+C:\Users\Islam-Al Azhary\Source\Repos\Payment\Payement.Entities\bin\Debug\netcoreapp2.1\Payement.Entities.dll
+C:\Users\Islam-Al Azhary\Source\Repos\Payment\Payement.Entities\bin\Debug\netcoreapp2.1\Payement.Entities.pdb
+C:\Users\Islam-Al Azhary\Source\Repos\Payment\Payement.Entities\obj\Debug\netcoreapp2.1\Payement.Entities.csprojAssemblyReference.cache
+C:\Users\Islam-Al Azhary\Source\Repos\Payment\Payement.Entities\obj\Debug\netcoreapp2.1\Payement.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Islam-Al Azhary\Source\Repos\Payment\Payement.Entities\obj\Debug\netcoreapp2.1\Payement.Entities.RazorAssemblyInfo.cache
+C:\Users\Islam-Al Azhary\Source\Repos\Payment\Payement.Entities\obj\Debug\netcoreapp2.1\Payement.Entities.RazorAssemblyInfo.cs
+C:\Users\Islam-Al Azhary\Source\Repos\Payment\Payement.Entities\obj\Debug\netcoreapp2.1\Payement.Entities.AssemblyInfoInputs.cache
+C:\Users\Islam-Al Azhary\Source\Repos\Payment\Payement.Entities\obj\Debug\netcoreapp2.1\Payement.Entities.AssemblyInfo.cs
+C:\Users\Islam-Al Azhary\Source\Repos\Payment\Payement.Entities\obj\Debug\netcoreapp2.1\Payement.Entities.RazorTargetAssemblyInfo.cache
+C:\Users\Islam-Al Azhary\Source\Repos\Payment\Payement.Entities\obj\Debug\netcoreapp2.1\Payement.Entities.dll
+C:\Users\Islam-Al Azhary\Source\Repos\Payment\Payement.Entities\obj\Debug\netcoreapp2.1\Payement.Entities.pdb

@@ -1,0 +1,44 @@
+﻿
+@{
+    ViewData["Title"] = "Charge";
+}
+
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+</head>
+<h2>Charge</h2>
+
+<div id="FormContainer" style="margin-left: 25%; width: 50%;background-color: aqua;height: 400px;padding-top: 10px">
+    <input type="text" id="amount" value="" class="form-control" style="margin-top: 100px;width: 50%; margin-left:25%"/>
+    <input type="button" id="btnAmount" value="دفع"style="margin-top: 120px;margin-left: 25%" />
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#btnAmount").click(function () {
+            window.alert("Yarby");
+           var amount= $("#amount").val();
+             $.ajax({
+        url: '@Url.Action("ChargeProcess", "Home")',
+        dataType: "json",
+        type: "POST",            
+        cache: false,
+        data: { amount: amount} ,
+        success: function (data) {
+           
+           // alert(data.IsChargeCompletedSuccessfuly);
+          // var x= data.IsChargeCompletedSuccessfuly
+           
+        },
+        error: function (xhr) {
+            alert(xhr.responseText);
+        }
+});
+
+
+        });
+    });
+
+</script>
+
+
+
