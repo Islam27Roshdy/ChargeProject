@@ -13,14 +13,13 @@ namespace Payment.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly PaymentManager _paymentManager;
+        private readonly PayAtFawryManager PayAtFawryManager;
         //private readonly IConfiguration _configuration;
 
         public HomeController(IConfiguration configuration): base()
         {
-            _paymentManager = new PaymentManager(configuration);
+            PayAtFawryManager = new PayAtFawryManager(configuration);
           
-            
         } 
         public async Task<IActionResult> Index()
         {
@@ -35,8 +34,12 @@ namespace Payment.Controllers
 
         public JsonResult ChargeProcess(double amount)
         {
-            var responseObject = _paymentManager.SendPaymentRequest(amount).Result;
-           return Json( JsonConvert.SerializeObject(responseObject));
+            var x =  PayAtFawryManager.SendChargeRequestPayAtFawry(amount).Result;
+           // var x = PayAtFawryManager.CheckStatus().Result;
+            //SendChargeRequestPayAtFawry(amount).Result;
+            //SendPaymentRequest(amount).Result; 
+
+            return Json(x);
         }
 
         public IActionResult About()

@@ -9,13 +9,24 @@
 <h2>Charge</h2>
 
 <div id="FormContainer" style="margin-left: 25%; width: 50%;background-color: aqua;height: 400px;padding-top: 10px">
-    <input type="text" id="amount" value="" class="form-control" style="margin-top: 100px;width: 50%; margin-left:25%"/>
-    <input type="button" id="btnAmount" value="دفع"style="margin-top: 120px;margin-left: 25%" />
+   
+   
+        <div style="margin-top: 100px;display: inline">المبلغ المدفوع:</div>
+        <div style="margin-top: 100px;display: inline">
+            <input type="text" id="amount" value="" class="form-control" style="margin-top: 100px;width: 50%; margin-left:25%;display: inline" />
+        </div>
+      <
+    
+    <p>عدد النقاط المضافة لرصيدك</p>
+    <div id="Points" style="display: inline"></div>
+
+    <input type="button" id="btnAmount" value="دفع" style="margin-top: 120px;margin-left: 25%" />
+     نتيجه الطلب:<input type="text" id="Result" style="margin-top: 150px;margin-left: 25%" />
 </div>
 <script type="text/javascript">
     $(document).ready(function () {
         $("#btnAmount").click(function () {
-            window.alert("Yarby");
+       
            var amount= $("#amount").val();
              $.ajax({
         url: '@Url.Action("ChargeProcess", "Home")',
@@ -23,9 +34,12 @@
         type: "POST",            
         cache: false,
         data: { amount: amount} ,
-        success: function (data) {
-           
-           // alert(data.IsChargeCompletedSuccessfuly);
+                 success: function (data) {
+                     window.alert(data.Mobile);
+                   //  $("#Points").val(data.Points);
+                   //  $("#Result").val(data.StatusResponseObject.paymentStatus);
+                    // window.alert(data.StatusDescription);
+                   
           // var x= data.IsChargeCompletedSuccessfuly
            
         },
