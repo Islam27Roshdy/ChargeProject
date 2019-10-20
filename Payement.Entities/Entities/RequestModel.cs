@@ -23,6 +23,7 @@ namespace Payement.Entities.Entities
         public string signature { get; set; }
 
 
+
     //{ "merchantCode":"is0N+YQzlE4=", "merchantRefNum":"9990064204",
     //"customerProfileId":"9990064204", "customerMobile":"01000000200", 
     //"customerEmail":"77@test.com", "paymentMethod":"PAYATFAWRY", "amount":20.10, 

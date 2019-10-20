@@ -5,9 +5,8 @@ using System.Threading.Tasks;
 
 namespace Payement.Entities.Entities
 {
-    public class Customer
+    public class PayAtFawryChargeResponse: ChargeResponse
     {
-       public string Mobile { get; set; }
-        public int id { get; set; }
+        public long expirationTime { get; set; }
     }
 }

@@ -5,9 +5,8 @@ using System.Threading.Tasks;
 
 namespace Payement.Entities.Entities
 {
-    public class Customer
+    public class CardChargeResponse: ChargeResponse
     {
-       public string Mobile { get; set; }
-        public int id { get; set; }
+
     }
 }
